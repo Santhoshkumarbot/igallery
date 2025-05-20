@@ -26,6 +26,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,6 +174,7 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+```
 
 ## OUTPUT:
 
